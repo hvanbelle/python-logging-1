@@ -1,0 +1,25 @@
+2024-07-24 09:06 CEST - DEBUG - Some debug log record
+2024-07-24 09:06 CEST - INFO - Some info log record
+2024-07-24 09:06 CEST - WARNING - Some warning log record
+2024-07-24 09:06 CEST - ERROR - Some error log record
+2024-07-24 09:06 CEST - CRITICAL - Some critical log record
+2024-07-24 09:06 CEST - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "/Users/hvanbelle/my-projects/python-logging-1/logger-3.py", line 26, in <module>
+    donuts_per_guest = donuts / guests
+ZeroDivisionError: division by zero
+2024-07-24 09:29 CEST - DEBUG - Some debug log record
+2024-07-24 09:29 CEST - INFO - Some info log record
+2024-07-24 09:29 CEST - WARNING - Some warning log record
+2024-07-24 09:29 CEST - ERROR - Some error log record
+2024-07-24 09:29 CEST - CRITICAL - Some critical log record
+2024-07-24 09:29 CEST - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "/Users/hvanbelle/my-projects/python-logging-1/logger-3.py", line 26, in <module>
+    donuts_per_guest = donuts / guests
+ZeroDivisionError: division by zero
+2024-07-24 09:29 CEST - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "/Users/hvanbelle/my-projects/python-logging-1/logger-3.py", line 31, in <module>
+    donuts_per_guest = donuts / guests
+ZeroDivisionError: division by zero

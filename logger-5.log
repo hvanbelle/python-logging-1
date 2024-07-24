@@ -1,0 +1,33 @@
+[<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+Look at my logger
+[<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+Look at my logger
+2024-07-24 10:42 CEST - WARNING - [<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+2024-07-24 10:42 CEST - WARNING - Look at my logger
+2024-07-24 10:46 CEST - WARNING - [<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+2024-07-24 10:46 CEST - WARNING - Look at my logger
+2024-07-24 10:46 CEST - WARNING - [<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+2024-07-24 10:46 CEST - WARNING - Look at my logger
+2024-07-24 10:46 CEST - WARNING - [<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+2024-07-24 10:46 CEST - WARNING - Look at my logger
+2024-07-24 10:46 CEST - WARNING - [<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+2024-07-24 10:46 CEST - WARNING - Look at my logger
+2024-07-24 10:46 CEST - DEBUG - Some debug log record
+2024-07-24 10:46 CEST - INFO - Some info log record
+2024-07-24 10:46 CEST - WARNING - Some warning log record
+2024-07-24 10:46 CEST - ERROR - Some error log record
+2024-07-24 10:46 CEST - CRITICAL - Some critical log record
+WARNING 2024-07-24 10:47 CEST - WARNING - [<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+WARNING 2024-07-24 10:47 CEST - WARNING - Look at my logger
+DEBUG 2024-07-24 10:47 CEST - DEBUG - Some debug log record
+INFO 2024-07-24 10:47 CEST - INFO - Some info log record
+WARNING 2024-07-24 10:47 CEST - WARNING - Some warning log record
+ERROR 2024-07-24 10:47 CEST - ERROR - Some error log record
+CRITICAL 2024-07-24 10:47 CEST - CRITICAL - Some critical log record
+2024-07-24 10:47 CEST - WARNING - [<StreamHandler <stderr> (NOTSET)>, <FileHandler /Users/hvanbelle/my-projects/python-logging-1/logger-5.log (NOTSET)>]
+2024-07-24 10:47 CEST - WARNING - Look at my logger
+2024-07-24 10:47 CEST - DEBUG - Some debug log record
+2024-07-24 10:47 CEST - INFO - Some info log record
+2024-07-24 10:47 CEST - WARNING - Some warning log record
+2024-07-24 10:47 CEST - ERROR - Some error log record
+2024-07-24 10:47 CEST - CRITICAL - Some critical log record
